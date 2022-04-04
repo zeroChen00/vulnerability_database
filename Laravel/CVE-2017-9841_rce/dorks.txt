@@ -1,0 +1,6 @@
+'inurl:/Util/PHP site:id'
+'inurl:/phpunit/phpunit/ site:.com'
+'inurl:/vendor/bin site:'
+'inurl:/vendor/phpunit/phpunit/src/Util/PHP/ site:.net'
+'intitle:"index of" intext:eval-stdin.php site:za'
+'inurl:/Util/PHP/ intext:eval-stdin.php site:.com'
